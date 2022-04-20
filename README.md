@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm lechêne Martin</h1>
+<h2 align="center"><a href="mailto:martin@lechene.be">Hire me !</a>
 <h3 align="center">Web dev junior from Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=flat-square" alt="martin-lechene" /> </p>
@@ -7,9 +8,9 @@
 
 - 🔭 I’m currently working on [Roll Mops Interactive](https://rollmopsinteractive.com/)
 
-- 🌱 I’m currently learning **Symfony and PHP**
-
 - 👯 And too [Pingu BKZ](https://pingubkz.com/)
+
+- 🌱 I’m currently learning **Symfony, Laravel and PHP**
 
 - 👨‍💻 All of my projects are available at [https://martin.lechene.be/](https://martin.lechene.be/)
 
