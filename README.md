@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://martin.lechene.be/](https://martin.lechene.be/)
 
-- 📝 I work in freelance for my society [https://doganddev.eu/](https://doganddev.eu/)
-
 - 📫 How to reach me **martin@lechene.be**
 
 - 📄 Know about my experiences [https://martin.lechene.be/resume.html](https://martin.lechene.be/resume.html)
