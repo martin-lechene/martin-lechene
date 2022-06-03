@@ -6,7 +6,6 @@
 
 <p align="center"> <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> </p>
 
-- 🔭 I’m currently working on [Roll Mops Interactive](https://rollmopsinteractive.com/) and [Pingu BKZ](https://pingubkz.com/)
 
 - 🌱 I’m currently learning **Symfony, Laravel and PHP**
 
