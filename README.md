@@ -1,8 +1,14 @@
-<h1 align="center"><img src="https://github.com/martin-lechene/martin-lechene/blob/main/header.png" alt="My header profil for say hello"/></h1>
-<h2 align="center"><a href="mailto:martin@lechene.be">You like me work ? Hire me or contact me for dev your project !</a>
-<h3 align="center">Web dev junior from Belgium</h3>
+<h1 align="center">
+  <img src="https://github.com/martin-lechene/martin-lechene/blob/main/header.png" alt="My header profil for say hello"/>
+ </h1>
+ 
+<h3 align="center">
+  Web dev junior from Belgium
+</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=flat-square" alt="martin-lechene" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=rounded-square" alt="martin-lechene" />
+</p>
 
 <p align="center"> <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> </p>
 
