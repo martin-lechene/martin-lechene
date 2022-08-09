@@ -3,7 +3,7 @@
  </h1>
  
 <h3 align="center">
-  Web dev junior from Belgium
+  Web developer at <a href="https://canell.be/">Canell.be</a> since 25-08-22.
 </h3>
 
 <p align="center">
