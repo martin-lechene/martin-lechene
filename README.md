@@ -3,7 +3,7 @@
  </h1>
  
 <h3 align="center">
-  Web developer at <a href="https://canell.be/">Canell.be</a> since 25-08-22.
+  Web developer looking for a position.
 </h3>
 
 <p align="center">
