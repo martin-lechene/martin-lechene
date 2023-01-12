@@ -3,7 +3,7 @@
  </h1>
  
 <h3 align="center">
-  Web developer looking for a position.
+  Web developer PHP/Laravel
 </h3>
 
 <p align="center">
