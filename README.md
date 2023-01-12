@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **martin@lechene.be**
 
-- 📄 Know about my experiences [https://martin.lechene.be/resume.html](https://martin.lechene.be/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
