@@ -3,7 +3,7 @@
  </h1>
  
 <h3 align="center">
-  Web developer PHP/Laravel
+  Developer PHP/Laravel
 </h3>
 
 <p align="center">
