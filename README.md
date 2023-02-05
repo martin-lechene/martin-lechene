@@ -3,7 +3,7 @@
  </h1>
  
 <h3 align="center">
-  Developer PHP/Laravel
+  Dev. PHP/Laravel
 </h3>
 
 <p align="center">
@@ -13,11 +13,11 @@
 <p align="center"> <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> </p>
 
 
-- 🌱 I’m currently learning **Symfony, Laravel and PHP**
+- 🌱 I’m currently work with [http://gocar.be](gocar.be) at Brussels
 
-- 👨‍💻 All of my projects are available at [https://martin.lechene.be/](https://martin.lechene.be/)
+- 👨‍💻 All of my projects and skills are available at [https://martin.lechene.be/](https://martin.lechene.be/)
 
-- 📫 How to reach me **martin@lechene.be**
+- 📫 How to reach me **[mailto:martin@lechene.be](Martin@lechene.be)**
 
 
 <h3 align="left">Connect with me:</h3>
