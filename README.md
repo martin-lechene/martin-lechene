@@ -13,11 +13,11 @@
 <p align="center"> <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> </p>
 
 
-- 🌱 I’m currently work with [http://gocar.be](gocar.be) at Brussels
+- 🌱 I’m currently work with [gocar.be](https://gocar.be) at Brussels
 
-- 👨‍💻 All of my projects and skills are available at [https://martin.lechene.be/](https://martin.lechene.be/)
+- 👨‍💻 All of my projects and skills are available at [martin.lechene.be](https://martin.lechene.be/)
 
-- 📫 How to reach me **[mailto:martin@lechene.be](Martin@lechene.be)**
+- 📫 How to reach me **[martin@lechene.be](mailto:martin@lechene.be)**
 
 
 <h3 align="left">Connect with me:</h3>
