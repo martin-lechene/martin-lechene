@@ -10,9 +10,9 @@
 
 <h6 align="center">
 Work in Dev. Web at <a href="https://gocar.be/">www.gocar.be</a><br>
-  Dev. Web personal time at <a href="https://doganddev.eu/">DOG&DEV</a><br>
-  Dev. Web personal time at <a href="https://databaseoftheknowledgeofhumanity.com/">DATABASE OF THE KNOWLEDGE OF HUMANITY</a><br>
-  Dev. Gaming personal time at <a href="https://flashkaza.com/">FlashKaza RP</a><br>
+  Dev. Web personal time at <a href="http://doganddev.eu/">DOG&DEV</a><br>
+  Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DATABASE OF THE KNOWLEDGE OF HUMANITY</a><br>
+  Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br>
 </h6>
 
 <p align="center">
