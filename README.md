@@ -18,11 +18,11 @@ Work in Dev. Web at <a href="https://gocar.be/">www.gocar.be</a><br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=rounded-square" alt="martin-lechene" />
 </p>
-
+<!-- 
 <p align="center"> 
   <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> 
 </p>
-
+ -->
 
 <!--<h3 align="left">Connect with me:</h3>
  <p align="center">
