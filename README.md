@@ -3,13 +3,13 @@
  </h1> -->
  
 <h3 align="center">
-  Dev. Web PHP/Laravel/Symfony <br>
+  Dev. Web Back End PHP/Laravel/Symfony <br>
   Dev Gaming LUA/FiveM/UR5 <br>
   ______________
 </h3>
 
 <h6 align="center">
-Work in Dev. Web at <a href="https://gocar.be/">www.gocar.be</a><br>
+  In research of job.
   Dev. Web personal time at <a href="http://doganddev.eu/">DOG&DEV</a><br>
   Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DATABASE OF THE KNOWLEDGE OF HUMANITY</a><br>
   Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br>
