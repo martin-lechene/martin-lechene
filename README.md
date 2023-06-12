@@ -9,7 +9,7 @@
 </h3>
 
 <h6 align="center">
-  In research of job.
+  In research of job. <br>
   Dev. Web personal time at <a href="http://doganddev.eu/">DOG&DEV</a><br>
   Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DATABASE OF THE KNOWLEDGE OF HUMANITY</a><br>
   Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br>
