@@ -5,7 +5,7 @@
 <h1 align="center">
   I'm a junior developer
 </h1>
-<h2>HIRE ME : martin[a]lechene.be</h2>
+<h2 align="center">HIRE ME : martin[a]lechene.be</h2>
 <h3 align="center">______________</h3>
 <h6 align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
