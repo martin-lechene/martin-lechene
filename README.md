@@ -14,7 +14,7 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
   </a> 
 </h1>
-<h3 align="center">HIRE ME : <a href="mailto:martin@lechene.be">martin[a]lechene.be</a></h2>
+<h1 align="center">HIRE ME : <a href="mailto:martin@lechene.be">martin[a]lechene.be</a></h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=rounded-square" alt="martin-lechene" />
 </p>
