@@ -30,8 +30,10 @@
 </h6>
 
 <h6 align="center">
-  Freelancer at <a href="http://doganddev.eu/">DOG&DEV</a><br>
-  Freelancr at <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
+  
+  Streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
+  Freelancer with <a href="http://doganddev.eu/">DOG&DEV</a><br>
+  Freelancer with <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
 <!--     Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br> -->
 <!--   Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DOTKOH</a><br> -->
 </h6>
@@ -40,6 +42,15 @@
   <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> 
 </p>
  -->
+ 
+<!-- <h4 align="center">My Virtual Life </h4>
+- Facebook
+- YouTube
+- Discord
+- Twitch 
+- Kick
+ -->
+
 
 <!--<h3 align="left">Connect with me:</h3>
  <p align="center">
