@@ -3,7 +3,7 @@
  </h1> -->
  
 <h1 align="center">
-  I'm a junior developer 
+  I'm web developer 
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a> 
@@ -30,9 +30,10 @@
 </h6>
 
 <h6 align="center">
-  Dev. Web personal time at <a href="http://doganddev.eu/">DOG&DEV</a><br>
-    Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br>
-  Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DOTKOH</a><br>
+  Freelancer at <a href="http://doganddev.eu/">DOG&DEV</a><br>
+  Freelancr at <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
+<!--     Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br> -->
+<!--   Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DOTKOH</a><br> -->
 </h6>
 <!-- 
 <p align="center"> 
