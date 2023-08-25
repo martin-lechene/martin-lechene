@@ -37,6 +37,9 @@
 <!--     Dev. Gaming personal time at <a href="http://flashkaza.com/">FlashKaza RP</a><br> -->
 <!--   Dev. Web personal time at <a href="http://databaseoftheknowledgeofhumanity.com/">DOTKOH</a><br> -->
 </h6>
+<p align="center">
+<a align="center" href="https://www.buymeacoffee.com/doganddev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee or a pause&emoji=😘&slug=doganddev&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+</p>
 <!-- 
 <p align="center"> 
   <a href="https://github.com/martin-lechene"><img src="https://github-profile-trophy.vercel.app/?username=martin-lechene" alt="martin-lechene" /></a> 
