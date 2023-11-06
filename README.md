@@ -1,23 +1,30 @@
 <h1 align="center">
-  Web Developer Back-end on 
+  Web Dev Full Stack <!--| CTO -->  <br>
+------------ </br>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/></a>
 </h1>
-<a href="https://github.com/sponsors/martin-lechene">Become a sponsor of my code!</a>
-<h2 align="center">CONTACT ME : <a href="mailto:contact@doganddev.eu">contac@doganddev.eu</a></h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=rounded-square" alt="martin-lechene" />
+  <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" />
 </p>
 <h3 align="center">
-  <!-- Freelancer with <a href="http://doganddev.eu/">DOG&DEV</a><br> -->
-  <!-- Freelancer with <a href="http://martin.lechene.be/">Martin Lechêne</a><br> -->
-  Streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
+<!--   CTO with <a href="https://egonix.com/">Egonix</a><br> -->
+  Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
+  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
+  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </h3>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
-<h2  align="center">Languages</h2>
+```
+████████ ███████  ██████ ██   ██ ███    ██ ██  ██████  █████  ██          ███████ ██   ██ ██ ██      ██      ███████ 
+   ██    ██      ██      ██   ██ ████   ██ ██ ██      ██   ██ ██          ██      ██  ██  ██ ██      ██      ██      
+   ██    █████   ██      ███████ ██ ██  ██ ██ ██      ███████ ██          ███████ █████   ██ ██      ██      ███████ 
+   ██    ██      ██      ██   ██ ██  ██ ██ ██ ██      ██   ██ ██               ██ ██  ██  ██ ██      ██           ██ 
+   ██    ███████  ██████ ██   ██ ██   ████ ██  ██████ ██   ██ ███████     ███████ ██   ██ ██ ███████ ███████ ███████
+```
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></a>
@@ -30,15 +37,14 @@
   <a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
   <a href="#"><img src=https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 </p>
-
-<h2  align="center">Technical skills</h2>
-<p align="center">
+<!--
+<h2  align="center">Software skills</h2>
 <a href="#"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
@@ -90,10 +96,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59"/></a>
 
-</p>
 
-
-<h2  align="center">O.S </h2>
+<!-- <h2  align="center">O.S </h2>
 <p align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
@@ -120,18 +124,16 @@
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"/></a>-->
 
-<h2  align="center">EducationS</h2>
-<a href="#"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a>
+<!-- <h2  align="center">Educations</h2>-->
+<!-- <a href="#"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/></a> -->
 
 
-
-<h3></h3>
 <!-- 
 <h2  align="center">My socials </h2>
 <p align="center">
@@ -193,32 +195,60 @@
     <a href="#"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a> -->
-  
+                                                                  
 
-
-
-<h3  align="center">Contact me </h6>
+```
+██████   ██████  ███    ██ 
+██   ██ ██    ██ ████   ██ 
+██   ██ ██    ██ ██ ██  ██ 
+██   ██ ██    ██ ██  ██ ██ 
+██████   ██████  ██   ████
+```
+<p align="center">You want be donator or sponsor ? Go here : </p>
 <p align="center">
- <a href="mailto:voyagevoyage@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://facebook.com/martin.ritual"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'/></a>
- <a href="#"><img src='https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white'/></a>
- <a href="#"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
- <a href="https://about.me/martin-lechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
-</p>
-<h2  align="center">Donations </h2>
-
-<p align="center">
-  <a align="center" href="https://www.buymeacoffee.com/doganddev">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee or a pause&emoji=😘&slug=doganddev&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-<h4 align="center">OR</h4>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <a href="https://www.buymeacoffee.com/doganddev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
+  <a href="https://github.com/sponsors/martin-lechene"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/></a>
-  </p>
-<h4 align="center">SPONSOR AND DONATOR</h4>
-  <p align="center">No donator or sponsor for moment !</p>
+ </p>
+
+```
+ ██████  ██████  ███    ██ ████████  █████   ██████ ████████     ███    ███ ███████ 
+██      ██    ██ ████   ██    ██    ██   ██ ██         ██        ████  ████ ██      
+██      ██    ██ ██ ██  ██    ██    ███████ ██         ██        ██ ████ ██ █████   
+██      ██    ██ ██  ██ ██    ██    ██   ██ ██         ██        ██  ██  ██ ██      
+ ██████  ██████  ██   ████    ██    ██   ██  ██████    ██        ██      ██ ███████ 
+```
+<p align="center">
+  <a href="mailto:contact@doganddev.eu">contact@doganddev.eu</a> </br>
+  <a href="mailto:martin@lechene.be">Email perso</a> </br>
+ <a href="https://about.me/martin-lechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
+</p>
+
+
+```
+███████  ██████   ██████ ██  █████  ██          ███    ███ ███████ ██████  ██  █████  
+██      ██    ██ ██      ██ ██   ██ ██          ████  ████ ██      ██   ██ ██ ██   ██ 
+███████ ██    ██ ██      ██ ███████ ██          ██ ████ ██ █████   ██   ██ ██ ███████ 
+     ██ ██    ██ ██      ██ ██   ██ ██          ██  ██  ██ ██      ██   ██ ██ ██   ██ 
+███████  ██████   ██████ ██ ██   ██ ███████     ██      ██ ███████ ██████  ██ ██   ██ 
+```  
+<p align="center">
+    <a href="https://www.instagram.com/doganddev/">Instagram</a> </br>
+    <a href="https://www.youtube.com/@doganddev">Youtube</a></br>
+    <a href="https://github.com/martin-lechene">Github</a></br>
+    <a href="https://www.buymeacoffee.com/doganddev">Buy Me a Coffee</a></br>
+    <a href="https://kick.com/doganddev"> Kick</a></br>
+    <a href="https://www.twitch.tv/doganddev">Twitch</a></br>
+    <a href="https://www.tiktok.com/@doganddev">TikTok</a></br>
+    <a href="https://www.facebook.com/doganddev">Facebook</a></br>
+    <a href="https://discord.com/invite/kAmMBcMJnn">Discord</a></br>
+    <a href="https://www.linkedin.com/company/doganddev">Linkedin Entreprise</a></br>
+    <a href="https://www.linkedin.com/in/martin-lechene/">Linkedin Perso</a></br>
+    <a href="https://open.spotify.com/user/316m3ticwtzpb6rnjzdw7ijekjeu?si=58223db124954b19&nd=1">Spotify</a></br>
+    <a href="https://stackoverflow.com/users/14110654/dog-and-dev">Stack Overflow</a></br>
+    <a href="https://medium.com/@martinlechene">Medium Blog</a></br>
+    <a href="https://www.reddit.com/user/DOGANDDEV">Reddit</a></br>
+
 </p>
