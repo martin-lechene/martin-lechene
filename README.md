@@ -221,7 +221,7 @@
 <p align="center">
   <a href="mailto:contact@doganddev.eu">contact@doganddev.eu</a> </br>
   <a href="mailto:martin@lechene.be">Email perso</a> </br>
- <a href="https://about.me/martin-lechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
+ <a href="https://about.me/martinlechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 </p>
 
 
