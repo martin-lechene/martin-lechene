@@ -194,13 +194,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a> -->
                                                                   
 
-```
-██████   ██████  ███    ██ 
-██   ██ ██    ██ ████   ██ 
-██   ██ ██    ██ ██ ██  ██ 
-██   ██ ██    ██ ██  ██ ██ 
-██████   ██████  ██   ████
-```
 <p align="center">You want be donator or sponsor ? Go here : </p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/doganddev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
