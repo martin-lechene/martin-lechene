@@ -1,5 +1,5 @@
 <h1 align="center">
-  Web Dev Full Stack <!--| CTO -->  <br>
+  Dev. Full Stack <!--| CTO -->  <br>
 ------------ </br>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
@@ -220,7 +220,7 @@
 ```
 <p align="center">
   <a href="mailto:contact@doganddev.eu">contact@doganddev.eu</a> </br>
-  <a href="mailto:martin@lechene.be">Email perso</a> </br>
+  <a href="mailto:martin@lechene.be">Or by here</a> </br>
  <a href="https://about.me/martinlechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 </p>
 
