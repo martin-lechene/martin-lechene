@@ -12,7 +12,7 @@
 <!--   CTO with <a href="https://egonix.com/">Egonix</a><br> -->
   Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
   And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
-  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
+  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </h3>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
