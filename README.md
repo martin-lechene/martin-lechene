@@ -9,7 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" />
 </p>
 <h3 align="center">
-<!--   CTO with <a href="https://egonix.com/">Egonix</a><br> -->
+  CTO for <a href="https://egonix.com/">Egonix</a><br>
+  Full Stack PHP | SilverStripe for <a href="https://myconsultation.be/">MyConsultation</a><br>
   Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
   And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
