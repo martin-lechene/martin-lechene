@@ -10,9 +10,12 @@
 </p>
 <h3 align="center">
   CTO for <a href="https://egonix.com/">Egonix</a><br>
-  Full Stack PHP | SilverStripe for <a href="https://myconsultation.be/">MyConsultation</a><br>
+  Full Stack PHP & SilverStripe for <a href="https://myconsultation.be/">MyConsultation</a><br>
   Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
   And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
+  Or my SaaS
+  <a href="https://streamcrea.com">StreamCrea.com</a> [+0€ MRR] </br>
+  <a href="https://digila.doganddev.eu">Digila</a> [+0€ MRR] </br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </h3>
 
