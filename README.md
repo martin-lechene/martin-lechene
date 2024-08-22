@@ -9,13 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" />
 </p>
 <h3 align="center">
-  CTO for <a href="https://egonix.com/">Egonix</a><br>
-  Full Stack PHP & SilverStripe for <a href="https://myconsultation.be/">MyConsultation</a><br>
-  Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
-  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
+  CTO for <a href="https://egonix.com/">Egonix</a> - Plateform for manage your card and profile NFC<br>
+  Full Stack PHP & SilverStripe for <a href="https://myconsultation.be/">MyConsultation</a><br> - Platform take appointment easy for your specialist
+  Work for <a href="http://doganddev.eu/">DOG&DEV</a> - Web agency for dev your dream
+  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br> - Portfolio
   Or my SaaS
   <a href="https://streamcrea.com">StreamCrea</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place. [+0€ MRR] </br>
   <a href="https://digila.doganddev.eu">Digila</a> - Create profile on portal web with simplicity or for manage commercial on business [+0€ MRR] </br>
+  
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </h3>
 
