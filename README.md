@@ -14,8 +14,8 @@
   Work for <a href="http://doganddev.eu/">DOG&DEV</a> 
   And on  <a href="http://martin.lechene.be/">Martin Lechêne</a><br>
   Or my SaaS
-  <a href="https://streamcrea.com">StreamCrea.com</a> [+0€ MRR] </br>
-  <a href="https://digila.doganddev.eu">Digila</a> [+0€ MRR] </br>
+  <a href="https://streamcrea.com">StreamCrea</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place. [+0€ MRR] </br>
+  <a href="https://digila.doganddev.eu">Digila</a> - Create profile on portal web with simplicity or for manage commercial on business [+0€ MRR] </br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </h3>
 
