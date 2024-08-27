@@ -18,6 +18,11 @@
   <a href="https://digila.doganddev.eu">Digila</a> - Create profile on portal web with simplicity or for manage commercial on business </br>
   <br><br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
+</br></br>
+  My articles on :</br>
+  <a href="https://medium.com/@martinlechene">Medium</a></br>
+  <a href="https://dev.to/martinlechene">Dev.to</a></br>
+
 </h3>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
