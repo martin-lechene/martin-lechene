@@ -19,7 +19,7 @@
   <br><br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
 </br></br>
-  My articles on :</br>
+  Articles :</br>
   <a href="https://medium.com/@martinlechene">Medium</a></br>
   <a href="https://dev.to/martinlechene">Dev.to</a></br>
 
