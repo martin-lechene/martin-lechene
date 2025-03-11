@@ -30,13 +30,7 @@
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
-```
-████████ ███████  ██████ ██   ██ ███    ██ ██  ██████  █████  ██          ███████ ██   ██ ██ ██      ██      ███████ 
-   ██    ██      ██      ██   ██ ████   ██ ██ ██      ██   ██ ██          ██      ██  ██  ██ ██      ██      ██      
-   ██    █████   ██      ███████ ██ ██  ██ ██ ██      ███████ ██          ███████ █████   ██ ██      ██      ███████ 
-   ██    ██      ██      ██   ██ ██  ██ ██ ██ ██      ██   ██ ██               ██ ██  ██  ██ ██      ██           ██ 
-   ██    ███████  ██████ ██   ██ ██   ████ ██  ██████ ██   ██ ███████     ███████ ██   ██ ██ ███████ ███████ ███████
-```
+# Skills
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></a>
@@ -206,8 +200,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a> -->
                                                                   
-
-<p align="center">You want be sponsor ? Go here : </p>
+# Sponsors
 <p align="center">
   <a href="https://www.buymeacoffee.com/doganddev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 <!--   <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a> -->
@@ -216,27 +209,14 @@
 <!--   <a href="#"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/></a> -->
  </p>
 
-```
- ██████  ██████  ███    ██ ████████  █████   ██████ ████████     ███    ███ ███████ 
-██      ██    ██ ████   ██    ██    ██   ██ ██         ██        ████  ████ ██      
-██      ██    ██ ██ ██  ██    ██    ███████ ██         ██        ██ ████ ██ █████   
-██      ██    ██ ██  ██ ██    ██    ██   ██ ██         ██        ██  ██  ██ ██      
- ██████  ██████  ██   ████    ██    ██   ██  ██████    ██        ██      ██ ███████ 
-```
+# Contact or Hire me
 <p align="center">
   <a href="mailto:contact@doganddev.eu">contact@doganddev.eu</a> </br>
   <a href="mailto:martin@lechene.be">Or by here</a> </br>
  <a href="https://about.me/martinlechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 </p>
 
-
-```
-███████  ██████   ██████ ██  █████  ██          ███    ███ ███████ ██████  ██  █████  
-██      ██    ██ ██      ██ ██   ██ ██          ████  ████ ██      ██   ██ ██ ██   ██ 
-███████ ██    ██ ██      ██ ███████ ██          ██ ████ ██ █████   ██   ██ ██ ███████ 
-     ██ ██    ██ ██      ██ ██   ██ ██          ██  ██  ██ ██      ██   ██ ██ ██   ██ 
-███████  ██████   ██████ ██ ██   ██ ███████     ██      ██ ███████ ██████  ██ ██   ██ 
-```  
+# Social media
 <p align="center">
     <a href="https://www.instagram.com/doganddev/">Instagram</a> </br>
     <a href="https://www.youtube.com/@doganddev">Youtube</a></br>
