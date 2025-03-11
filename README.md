@@ -23,7 +23,7 @@
 - Roll Mops Interactive - Game Studio Belgium | WordPress fully customs theme and plugin
 - QuelsProjets - Multi-business : Sell domain and website on wordpress ready, e-commerce, blog and medias 
   </br></br>
-  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list articles  <a href="https://medium.com/@martinlechene">Medium</a> | <a href="https://dev.to/martinlechene">Dev.to</a></br>
+  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a></br>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
