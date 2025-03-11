@@ -11,6 +11,8 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
 
+<p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
+
 # Experiences
 - DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev.
 - Vetzy - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments | Laravel
@@ -25,7 +27,6 @@
   </br></br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a></br>
 
-<p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
 # Skills
 <p align="center">
