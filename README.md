@@ -12,7 +12,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
 
 # Experiences
-- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. -> Laravel, PHP, Symfony, WordPress
+- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev.
 - Vetzy - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments | Laravel
 - Egonix - Platform for sharing and statistics on profiles via NFC products | Laravel
 - SteamCrea - Platform for multicasting on social media and managing published posts | Laravel
