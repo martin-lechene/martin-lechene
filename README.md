@@ -14,7 +14,7 @@
   CTO for <a href="https://egonix.com/">Egonix</a> - Plateform for manage your card and profile NFC<br><br>
   My SaaS 
   <br><br>
-    <a href="https://vetzy.com">Vetzy</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br>
+<!--     <a href="https://vetzy.com">Vetzy</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br> -->
     <a href="https://streamcrea.com">StreamCrea</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br>
     <a href="https://digila.doganddev.eu">Digila</a> - Create profile on portal web with simplicity or for manage commercial on business </br>
     <a href="https://olacars.doganddev.eu">OlaCars</a> - Platform for sell the luxury cars.</br>
