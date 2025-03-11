@@ -12,16 +12,16 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
 
 # Experiences
-- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. -> Laravel, PHP, Symfony, WordPress, 
-- Vetzy - Platform for veterinarians and pet owner, for easy found, take and manage appointment | Laravel
-- Egonix - Platform for sharing and statics on profile by NFC products | Laravel
-- SteamCrea - Platform for multi-cast social media and management of publish posts | Laravel
-- Digila - Platform for create web profile and statistic | Laravel
+- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. -> Laravel, PHP, Symfony, WordPress
+- Vetzy - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments | Laravel
+- Egonix - Platform for sharing and statistics on profiles via NFC products | Laravel
+- SteamCrea - Platform for multicasting on social media and managing published posts | Laravel
+- Digila - Platform for creating web profiles and statistics | Laravel
 - OlaCars - Platform for selling luxury cars | Laravel
-- Database of the knowledge of humanity - Platform for discovery the humanity by database | Laravel
-- MyConsultation - Platform of scheluding for patients and doctor | Full Stack PHP / SilverStripe
-- Roll Mops Interactive - Game Studio Belgium | WordPress fully customs theme and plugin
-- QuelsProjets - Multi-business : Sell domain and website on wordpress ready, e-commerce, blog and medias 
+- Database of the Knowledge of Humanity - Platform for discovering humanity through databases | Laravel
+- MyConsultation - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
+- Roll Mops Interactive - Game Studio Belgium | WordPress fully custom theme and plugin
+- QuelsProjets - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
   </br></br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a></br>
 
