@@ -25,9 +25,7 @@
   </br></br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> 
 </br></br>
-  Articles :</br>
-  <a href="https://medium.com/@martinlechene">Medium</a></br>
-  <a href="https://dev.to/martinlechene">Dev.to</a></br>
+  Articles : <a href="https://medium.com/@martinlechene">Medium</a> | <a href="https://dev.to/martinlechene">Dev.to</a></br>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
