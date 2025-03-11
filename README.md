@@ -219,7 +219,7 @@
  <a href="https://about.me/martinlechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 </p>
 
-# Social media
+<!-- # Social media -->
 <!-- <p align="center">
     <a href="https://www.instagram.com/doganddev/">Instagram</a> </br>
     <a href="https://www.youtube.com/@doganddev">Youtube</a></br>
