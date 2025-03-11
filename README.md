@@ -6,18 +6,22 @@
   <a href="#"><img src="https://img.shields.io/badge/WordPress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=white"/></a>
 </h1>
 
-<p align=center"><a href="https://martin.lechene.be">Portfolio</a></p>
+<p align="center">
+  <a align="center" href="https://martin.lechene.be">Portfolio</a>
+</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
 
 # Experiences
-- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. 
-- Vetzy - Platform for veterinarians and pet owner, for easy found, take and manage appointment
+- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. -> Laravel, PHP, Symfony, WordPress, 
+- Vetzy - Platform for veterinarians and pet owner, for easy found, take and manage appointment | Laravel
 - Egonix - Platform for sharing and statics on profile by NFC products | Laravel
 - SteamCrea - Platform for multi-cast social media and management of publish posts | Laravel
 - Digila - Platform for create web profile and statistic | Laravel
 - OlaCars - Platform for selling luxury cars | Laravel
 - Database of the knowledge of humanity - Platform for discovery the humanity by database | Laravel
 - MyConsultation - Platform of scheluding for patients and doctor | Full Stack PHP / SilverStripe
+- Roll Mops Interactive - Game Studio Belgium | WordPress fully customs theme and plugin
+- QuelsProjets - Multi-business : Sell domain and website on wordpress ready, e-commerce, blog and medias 
   </br></br>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> 
 </br></br>
