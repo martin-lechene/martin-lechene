@@ -6,27 +6,24 @@
   <a href="#"><img src="https://img.shields.io/badge/WordPress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=white"/></a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" />
-</p>
-<h3 align="center">
-  Work for <a href="http://doganddev.eu/">DOG&DEV</a> - Web agency for dev your dream<br>
-  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a> - Portfolio<br>
-  CTO for <a href="https://egonix.com/">Egonix</a> - Plateform for manage your card and profile NFC<br><br>
-  My SaaS 
-  <br><br>
-<!--     <a href="https://vetzy.com">Vetzy</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br> -->
-    <a href="https://streamcrea.com">StreamCrea</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br>
-    <a href="https://digila.doganddev.eu">Digila</a> - Create profile on portal web with simplicity or for manage commercial on business </br>
-    <a href="https://olacars.doganddev.eu">OlaCars</a> - Platform for sell the luxury cars.</br>
+<p align=center"><a href="https://martin.lechene.be">Portfolio</a></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
+
+# Experiences
+- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev. 
+- Vetzy - Platform for veterinarians and pet owner, for easy found, take and manage appointment
+- Egonix - Platform for sharing and statics on profile by NFC products | Laravel
+- SteamCrea - Platform for multi-cast social media and management of publish posts | Laravel
+- Digila - Platform for create web profile and statistic | Laravel
+- OlaCars - Platform for selling luxury cars | Laravel
+- Database of the knowledge of humanity - Platform for discovery the humanity by database | Laravel
+- MyConsultation - Platform of scheluding for patients and doctor | Full Stack PHP / SilverStripe
   </br></br>
-  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> & <a href="https://kick.com/doganddev/">Kick</a><br>
+  And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> 
 </br></br>
   Articles :</br>
   <a href="https://medium.com/@martinlechene">Medium</a></br>
   <a href="https://dev.to/martinlechene">Dev.to</a></br>
-
-</h3>
 
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
