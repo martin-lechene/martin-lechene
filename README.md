@@ -9,10 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" />
 </p>
 <h3 align="center">
-  CTO for <a href="https://egonix.com/">Egonix</a> - Plateform for manage your card and profile NFC<br>
   Work for <a href="http://doganddev.eu/">DOG&DEV</a> - Web agency for dev your dream<br>
-  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a> - Portfolio<br><br>
-  
+  And on  <a href="http://martin.lechene.be/">Martin Lechêne</a> - Portfolio<br>
+  CTO for <a href="https://egonix.com/">Egonix</a> - Plateform for manage your card and profile NFC<br><br>
   My SaaS 
   <br><br>
     <a href="https://vetzy.com">Vetzy</a> - Dev your social media, viewer, shop on one platform. And for your viewer all favorite streamer and all social media of streamer on one place </br>
