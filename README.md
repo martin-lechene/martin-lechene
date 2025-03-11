@@ -218,7 +218,7 @@
 </p>
 
 # Social media
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.instagram.com/doganddev/">Instagram</a> </br>
     <a href="https://www.youtube.com/@doganddev">Youtube</a></br>
     <a href="https://github.com/martin-lechene">Github</a></br>
@@ -234,5 +234,4 @@
     <a href="https://stackoverflow.com/users/14110654/dog-and-dev">Stack Overflow</a></br>
     <a href="https://medium.com/@martinlechene">Medium Blog</a></br>
     <a href="https://www.reddit.com/user/DOGANDDEV">Reddit</a></br>
-
-</p>
+</p>-->
