@@ -224,7 +224,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a> -->
                                                                   
 # Sponsors
-<p align="center">
+<p align="">
   <a href="https://www.buymeacoffee.com/doganddev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 <!--   <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a> -->
 <!--   <a href="#"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> -->
@@ -233,7 +233,7 @@
  </p>
 
 # Contact me
-<p align="center">
+<p align="">
   <a href="mailto:contact@doganddev.eu">contact@doganddev.eu</a> </br>
 <!--  <a href="https://about.me/martinlechene/"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a> -->
 </p>
