@@ -10,25 +10,23 @@
 <p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
 # Experiences
-- DOG&DEV - Web agency freelance for B2B and B2C | Full Stack Web Dev.
-- Vetzy - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments | Laravel
-- AnHosting - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website | Petrodactyle & Laravel
-- Egonix - Platform for sharing and statistics on profiles via NFC products | Laravel
-- SteamCrea - Platform for multicasting on social media and managing published posts | Laravel
-- Digila - Platform for creating web profiles and statistics | Laravel
-- OlaCars - Platform for selling luxury cars | Laravel
-- Database of the Knowledge of Humanity - Platform for discovering humanity through databases | Laravel
-- MyConsultation - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
-- LydHosting - DayZ Hosting | PHP From Scratch 
-- Roll Mops Interactive - Game Studio Belgium | WordPress fully custom theme and plugin
-- QuelsProjets - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
+- **DOG&DEV** - Web agency freelance for B2B and B2C | Full Stack Web Dev.
+- **Vetzy** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments | Laravel
+- **AnHosting** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website | Petrodactyle & Laravel
+- **Egonix** - Platform for sharing and statistics on profiles via NFC products | Laravel
+- **SteamCrea** - Platform for multicasting on social media and managing published posts | Laravel
+- **Digila** - Platform for creating web profiles and statistics | Laravel
+- **OlaCars** - Platform for selling luxury cars | Laravel
+- **Database** of the Knowledge of Humanity - Platform for discovering humanity through databases | Laravel
+- **MyConsultation** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
+- **LydHosting** - DayZ Hosting | PHP From Scratch 
+- **Roll Mops Interactive** - Game Studio Belgium | WordPress fully custom theme and plugin
+- **QuelsProjets** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
   </br></br>
   
 <p>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a>
 </p>
-  
-
 
 # Skills
 #### 🚀 Backend Development
