@@ -23,7 +23,7 @@
 - **LydHosting** - DayZ Hosting | PHP From Scratch 
 - **Roll Mops Interactive** - Game Studio Belgium | WordPress fully custom theme and plugin
 - **QuelsProjets** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
-- ** YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu) 
+- **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu) 
   </br></br>
   
 <p>
