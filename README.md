@@ -12,6 +12,7 @@
 # Experiences
 - **DOG&DEV** - Web agency freelance for B2B and B2C 
 - **Vetzy** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
+- **PanelRP** - Platform for manage full instance of web for game server RP.
 - **Gardeveterinaires** - Platform for found in emergency a veterinarians availabilities
 - **AnHosting** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
 - **Egonix** - Platform for sharing and statistics on profiles via NFC products
