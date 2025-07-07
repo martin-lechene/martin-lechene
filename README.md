@@ -223,7 +223,14 @@
     <a href="#"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a> -->
-                                                                  
+
+
+# Active Challenges widget
+---
+[![Active Challenges widget](https://embeddables.devactivity.com/personal/martin-lechene/ee6ebd5a-5900-4859-a3b4-af81fea2a52c.svg)](https://app.devactivity.com/public/?organizationLogin=martin-lechene#nav-achievements)
+---
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=martin-lechene) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
+
 # Sponsors
 <p align="">
   <a href="https://www.buymeacoffee.com/doganddev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
