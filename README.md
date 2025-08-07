@@ -1,13 +1,14 @@
+<img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" />
+
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
-  <p> Dev. Full Stack 
+  <p> Dev. Full Stack PHP / Laravel <br/>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   </p>
 </h1>
 
 
-<p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
 # Experiences
 - **DOG&DEV** - Web agency freelance for B2B and B2C 
@@ -30,6 +31,7 @@
 <p>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a>
 </p>
+<p href="#" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martin-lechene&theme=github_dark"/></p>
 
 # Skills
 #### 🚀 Backend Development
