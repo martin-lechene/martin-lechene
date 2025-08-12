@@ -20,6 +20,10 @@
 - **SteamCrea** - Platform for multicasting on social media and managing published posts
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
+- **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go
+- **LarappeUI** - UI/UX Laravel System Open Source
+- **TravelFirst** - Platform for ultra premium travels only on invitation
+- **Staravel** - GUI Web for full install of Laravel
 - **Database** of the Knowledge of Humanity - Platform for discovering humanity through database
 - **MyConsultation** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
 - **LydHosting** - DayZ Hosting | PHP From Scratch 
