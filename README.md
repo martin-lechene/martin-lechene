@@ -8,15 +8,19 @@
   </p>
 </h1>
 
-
-
-# Experiences
-- **DOG&DEV** - My web agency  for B2B and B2C 
+# Experiences 
+- **DOG&DEV**  - My web agency  for B2B and B2C 
+- **AnHosting** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
+- **Egonix** - Platform for sharing and statistics on profiles via NFC products
+- **MyConsultation** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
+- **GoCar** - Plaform for selling car
+- **Canell SPRL** -  Agence B2B/B2C
+- **LydHosting** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
+- **Roll Mops Interactive** - Game Studio Belgium | WordPress fully custom theme and plugin
+- **QuelsProjets** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
 - **Vetzy** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
 - **PanelRP** - Platform for manage full instance of web for game server RP.
 - **Gardeveterinaires** - Platform for found in emergency a veterinarians availabilities
-- **AnHosting** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
-- **Egonix** - Platform for sharing and statistics on profiles via NFC products
 - **SteamCrea** - Platform for multicasting on social media and managing published posts
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
@@ -25,14 +29,9 @@
 - **TravelFirst** - Platform for ultra premium travels only on invitation
 - **Staravel** - GUI Web for full install of Laravel
 - **Database** of the Knowledge of Humanity - Platform for discovering humanity through database
-- **MyConsultation** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
-- **GoCar** - Plaform for selling car
-- **Canell SPRL** -  Agence B2B/B2C
-- **LydHosting** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
-- **Roll Mops Interactive** - Game Studio Belgium | WordPress fully custom theme and plugin
-- **QuelsProjets** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
-- **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu) 
-  </br></br>
+- **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
+
+</br></br>
   
 <p>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a>
