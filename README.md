@@ -25,10 +25,15 @@
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
-- **LarappeUI** - UI/UX Laravel System Open Source
+- **[LarappeUI](https://github.com/martin-lechene/LarappeUI)** - UI/UX Laravel System Open Source
+- **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI sync with audio
 - **TravelFirst** - Platform for ultra premium travels only on invitation
 - **Staravel** - GUI Web for full install of Laravel
 - **Database** of the Knowledge of Humanity - Platform for discovering humanity through database
+- **[Freedium Chrome Extension](https://github.com/martin-lechene/freedium-extension)** - Extension Chrome for auto/manual open medium premium post into freedium.cfd
+- **[El-Arcade](https://github.com/martin-lechene/el-arcade)** - Arcade script FiveM Standalone GTA V
+- **[Auto Added into playlist YouTube Chrome Extension](https://github.com/martin-lechene/auto-add-in-playlist-youtube)** - Extension Chrome for auto add video into multi playlists with button in YouTube
+- **[Laravel Storage Backup Package](https://github.com/ibnu-sahid/laravel-storage-backup)** - Contributor for system for backup into Laravel 
 - **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
 
 </br></br>
