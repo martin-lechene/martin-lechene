@@ -26,7 +26,8 @@
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
 - **[LarappeUI](https://github.com/martin-lechene/LarappeUI)** - UI/UX Laravel System Open Source
-- **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI sync with audio
+- **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
+- **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
 - **TravelFirst** - Platform for ultra premium travels only on invitation
 - **Staravel** - GUI Web for full install of Laravel
 - **Database** of the Knowledge of Humanity - Platform for discovering humanity through database
