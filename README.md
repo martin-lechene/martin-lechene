@@ -9,19 +9,11 @@
 </h1>
 
 # Experiences 
-- **DOG&DEV**  - My web agency  for B2B and B2C 
-- **AnHosting** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
-- **Egonix** - Platform for sharing and statistics on profiles via NFC products
-- **MyConsultation** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
-- **GoCar** - Plaform for selling car
-- **Canell SPRL** -  Agence B2B/B2C
-- **LydHosting** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
-- **Roll Mops Interactive** - Game Studio Belgium | WordPress fully custom theme and plugin
-- **QuelsProjets** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
-- **Vetzy** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
-- **PanelRP** - Platform for manage full instance of web for game server RP.
-- **Gardeveterinaires** - Platform for found in emergency a veterinarians availabilities
-- **SteamCrea** - Platform for multicasting on social media and managing published posts
+- **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C 
+- **[Vetzy](https://vetzy.eu)** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
+- **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP.
+- **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
+- **[SteamCrea](https://streamcrea.com)** - Platform for multicasting on social media and managing published posts
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
@@ -31,13 +23,22 @@
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
 - **TravelFirst** - Platform for ultra premium travels only on invitation
 - **Staravel** - GUI Web for full install of Laravel
-- **Database** of the Knowledge of Humanity - Platform for discovering humanity through database
+- **Database of the Knowledge of Humanity** - Platform for discovering humanity through database
 - **[Freedium Chrome Extension](https://github.com/martin-lechene/freedium-extension)** - Extension Chrome for auto/manual open medium premium post into freedium.cfd
-- **[El-Arcade](https://github.com/martin-lechene/el-arcade)** - Arcade script FiveM Standalone GTA V
 - **[Auto Added into playlist YouTube Chrome Extension](https://github.com/martin-lechene/auto-add-in-playlist-youtube)** - Extension Chrome for auto add video into multi playlists with button in YouTube
 - **[Laravel Storage Backup Package](https://github.com/ibnu-sahid/laravel-storage-backup)** - Contributor for system for backup into Laravel 
+- **[El-Arcade](https://github.com/martin-lechene/el-arcade)** - Arcade script FiveM Standalone GTA V
 - **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
 
+# Work for
+- **AnHosting [Co-founder]** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
+- **Egonix [Co-founder]** - Platform for sharing and statistics on profiles via NFC products 
+- **MyConsultation [Full Stack Dev. PHP]** - Platform for scheduling for patients and doctors | Full Stack PHP / SilverStripe
+- **GoCar [Full Stack Dev. Laravel]** - Belgium Plaform For Selling Car Marketplace
+- **LydHosting [Full Stack Dev. PHP]** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
+- **QuelsProjets [Full Stack Dev. WordPress]** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
+- **Canell SPRL [Full Stack Dev. PHP/WordPress]** - Work for BeBooth, Managara, TotalEnergie Concours,.. 
+- **Roll Mops Interactive [Full Stack Dev. PHP/WordPress]** - Game Studio Belgium | WordPress fully custom theme and plugin
 </br></br>
   
 <p>
