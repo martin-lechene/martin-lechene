@@ -25,6 +25,7 @@
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
+- **DiscoBot** - Marketplace of Discord Bot
 - **[LarappeUI](https://github.com/martin-lechene/LarappeUI)** - UI/UX Laravel System Open Source
 - **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
