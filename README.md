@@ -32,14 +32,14 @@
 
 # Work for
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C (Mutli SaaS creation for our éco-system: Vetzy, PanelRP, Garde Vétérinaires, StreamCrea, Digilia, OlaCars, Lodate, DiscoBot, ..)
-- **AnHosting [Co-founder]** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
+- **[AnHosting](https://anhosting.fr) [Co-founder]** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
 - **Egonix [Co-founder]** - Platform for sharing and statistics on profiles via NFC products
 - **CheckThisToo [Full Stack Dev. PHP/Laravel]** - Mission on demand for company
-- **MyConsultation [Full Stack Dev. PHP]** - Platform for scheduling for patients and doctors
-- **GoCar [Full Stack Dev. Laravel]** - Belgium Plaform For Selling Car Marketplace
-- **LydHosting [Full Stack Dev. PHP]** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
+- **[MyConsultation](https://myconsultation.be) [Full Stack Dev. PHP]** - Platform for scheduling for patients and doctors
+- **[GoCar](https://gocar.be) [Full Stack Dev. Laravel]** - Belgium Plaform For Selling Car Marketplace
+- **[LydHosting](https://LydHosting.net) [Full Stack Dev. PHP]** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
 - **QuelsProjets [Full Stack Dev. WordPress]** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
-- **Canell SPRL [Full Stack Dev. PHP/WordPress]** - Work for BeBooth, Managara, TotalEnergie Concours,.. 
+- **[Canell SPRL](https://canell.be) [Full Stack Dev. PHP/WordPress]** - Work for BeBooth, Managara, TotalEnergie Concours,.. 
 - **Roll Mops Interactive [Full Stack Dev. PHP/WordPress]** - Game Studio Belgium | WordPress fully custom theme and plugin
 </br></br>
   
