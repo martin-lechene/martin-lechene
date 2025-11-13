@@ -1,4 +1,4 @@
-<img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" />
+<!-- <img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" /> -->
 
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
