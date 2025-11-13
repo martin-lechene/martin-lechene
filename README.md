@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
-  <p> Dev. Full Stack PHP / Laravel <br/>
+  <p> Senior Full Stack PHP / Laravel <br/>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   </p>
