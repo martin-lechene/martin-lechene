@@ -22,13 +22,18 @@
 - **[LarappeUI](https://github.com/martin-lechene/LarappeUI)** - UI/UX Laravel System Open Source
 - **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
+- **[Musecture](https://github.com/martin-lechene/musecture)** - Artichecture MAO 
+- **[ImmoAnalytics](https://github.com/martin-lechene/immoanalytics)** - Analytics and multi-scrapping Immoweb
 - **TravelFirst** - Platform for ultra premium travels only on invitation
 - **Staravel** - GUI Web for full install of Laravel
-- **Database of the Knowledge of Humanity** - Platform for discovering humanity through database
+- **[Database of the Knowledge of Humanity](https://databaseoftheknowledgeofhumanity.com)** - Platform for discovering humanity through database
 - **[Freedium Chrome Extension](https://github.com/martin-lechene/freedium-extension)** - Extension Chrome for auto/manual open medium premium post into freedium.cfd
 - **[Auto Added into playlist YouTube Chrome Extension](https://github.com/martin-lechene/auto-add-in-playlist-youtube)** - Extension Chrome for auto add video into multi playlists with button in YouTube
 - **[Laravel Storage Backup Package](https://github.com/ibnu-sahid/laravel-storage-backup)** - Contributor for system for backup into Laravel 
 - **[El-Arcade](https://github.com/martin-lechene/el-arcade)** - Arcade script FiveM Standalone GTA V
+- **Discord Bot Arma 3** - Bot discord for Arma3 server
+- **Discord Bot FiveM** - Bot discord for FiveM (QBCore/ESX) server
+- **Discord Bot DayZ** - Bot discord for DayZ server
 - **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
 
 # Work for
