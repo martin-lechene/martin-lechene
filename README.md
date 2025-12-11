@@ -19,7 +19,6 @@
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
 - **DiscoBot** - Marketplace of Discord Bot
-- **[LarappeUI](https://github.com/martin-lechene/LarappeUI)** - UI/UX Laravel System Open Source
 - **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
 - **[Musecture](https://github.com/martin-lechene/musecture)** - Artichecture MAO 
@@ -35,6 +34,24 @@
 - **Discord Bot FiveM** - Bot discord for FiveM (QBCore/ESX) server
 - **Discord Bot DayZ** - Bot discord for DayZ server
 - **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
+
+# Packages
+## Laravel
+- [Laravel Storage Backup](https://github.com/ibnu-sahid/laravel-storage-backup)
+- [Crypto Payments](https://github.com/martin-lechene/crypto-payment-laravel)
+- [Ledger Connect USB/Bluetooth](https://github.com/martin-lechene/ledger-laravel)
+- [Github Action generator](https://github.com/martin-lechene/github-action-laravel)
+- [Audit System](https://github.com/martin-lechene/audit-laravel)
+- [LarappeUI](https://github.com/martin-lechene/LarappeUI)
+- [SoundRak](https://github.com/martin-lechene/soundrak)
+## Chrome Extension
+- [RemovePaywalls](https://github.com/martin-lechene/removepaywalls-extension)
+- [Freedium](https://github.com/martin-lechene/freedium-extension)
+- [Auto Add in playlist YouTube](https://github.com/martin-lechene/auto-add-in-playlist-youtube)
+## FiveM (GTA V)
+- [El Arcade](https://github.com/martin-lechene/el-arcade)
+## VSCode Extension
+- [LaraTools](https://github.com/martin-lechene/laratools-vscode-extension) 
 
 # Work for
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C (Mutli SaaS creation for our éco-system: Vetzy, PanelRP, Garde Vétérinaires, StreamCrea, Digilia, OlaCars, Lodate, DiscoBot, ..)
