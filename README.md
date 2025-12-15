@@ -44,9 +44,12 @@
 - [Audit System](https://github.com/martin-lechene/audit-laravel)
 - [LarappeUI](https://github.com/martin-lechene/LarappeUI)
 - [SoundRak](https://github.com/martin-lechene/soundrak)
+- [eBox Entreprise Secure](https://github.com/martin-lechene/eBox-laravel)
+- [Itsme OAuth](https://github.com/martin-lechene/itsme-laravel)
+
 ## Chrome Extension
 - [RemovePaywalls](https://github.com/martin-lechene/removepaywalls-extension)
-- [Freedium](https://github.com/martin-lechene/freedium-extension)
+- [Freedium Anti-PayWall](https://github.com/martin-lechene/freedium-extension)
 - [Auto Add in playlist YouTube](https://github.com/martin-lechene/auto-add-in-playlist-youtube)
 ## FiveM (GTA V)
 - [El Arcade](https://github.com/martin-lechene/el-arcade)
