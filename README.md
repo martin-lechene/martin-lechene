@@ -46,6 +46,7 @@
 - [SoundRak](https://github.com/martin-lechene/soundrak)
 - [eBox Entreprise Secure](https://github.com/martin-lechene/eBox-laravel)
 - [Itsme OAuth](https://github.com/martin-lechene/itsme-laravel)
+- [Bytez](https://github.com/martin-lechene/bytez-laravel)
 
 ## Chrome Extension
 - [RemovePaywalls](https://github.com/martin-lechene/removepaywalls-extension)
