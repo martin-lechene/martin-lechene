@@ -12,9 +12,11 @@
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C
 - **[JobForDev](https://github.com/JobForDev)** - Sharing all jobs for all devs
 - **[Vetzy](https://vetzy.eu)** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
-- **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP.
+- **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP
+- **[GitChat](https://gitchat.doganddev.eu/)** - Platform for chatting with github community
 - **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
 - **[SteamCrea](https://streamcrea.com)** - Platform for multicasting on social media and managing published posts
+
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
