@@ -10,7 +10,6 @@
 
 # Experiences 
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C
-- **[JobForDev](https://github.com/JobForDev)** - Sharing all jobs for all devs
 - **[Vetzy](https://vetzy.eu)** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
 - **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP
 - **[GitChat](https://gitchat.doganddev.eu/)** - Platform for chatting with github community
@@ -67,6 +66,7 @@
 - **CheckThisToo [Full Stack Dev. PHP/Laravel]** - Mission on demand for company
 - **[MyConsultation](https://myconsultation.be) [Full Stack Dev. PHP]** - Platform for scheduling for patients and doctors
 - **[GoCar](https://gocar.be) [Full Stack Dev. Laravel]** - Belgium Plaform For Selling Car Marketplace
+- **[JobForDev](https://github.com/JobForDev)** - Sharing all jobs for all devs
 - **[LydHosting](https://LydHosting.net) [Full Stack Dev. PHP]** - Game DayZ Hosting | PHP Custom Script From Scratch for (sold to VYKIX). 
 - **QuelsProjets [Full Stack Dev. WordPress]** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
 - **[Canell SPRL](https://canell.be) [Full Stack Dev. PHP/WordPress]** - Work for BeBooth, Managara, TotalEnergie Concours,.. 
