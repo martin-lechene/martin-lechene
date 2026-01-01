@@ -16,6 +16,7 @@
 - **[GitChat](https://gitchat.doganddev.eu/)** - Platform for chatting with github community
 - **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
 - **[SteamCrea](https://streamcrea.com)** - Platform for multicasting on social media and managing published posts
+- **[Fin Nexus](https://finnexus.doganddev.eu/)** - Plaform powered by IA for manage your financial life
 
 - **Digila** - Platform for creating web profiles and statistics
 - **OlaCars** - Platform for selling luxury cars
