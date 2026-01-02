@@ -50,22 +50,6 @@
 - [Itsme OAuth](https://github.com/martin-lechene/itsme-laravel)
 - [Bytez IA Integration Multi Modal & API](https://github.com/martin-lechene/bytez-laravel)
 
-# Articles
-- [Secure Your Belgian Company: Seamless itsme® Integration for Laravel 12](https://medium.com/@martinlechene/secure-your-belgian-company-seamless-itsme-integration-for-laravel-12-da53a9b4fb24
-)
-- [One Key, 175k+ Models: Mastering AI in Laravel with Bytez](https://medium.com/@martinlechene/one-key-175k-models-mastering-ai-in-laravel-with-bytez-7bc84d9083e8)
-- [Le Guide Exhaustif des 150+ Helpers Laravel 12 : La Bible des Fonctions Utilitaires](https://medium.com/@martinlechene/le-guide-exhaustif-des-150-helpers-laravel-12-la-bible-des-fonctions-utilitaires-aba4bfdccfff)
-- [Les migrations Laravel en prod : le guide A → Z pour ne rien casser (ou presque)💣](https://medium.com/@martinlechene/les-migrations-laravel-en-prod-le-guide-a-z-pour-ne-rien-casser-ou-presque-e22ac9ab8aec)
-- [TOP 5 des IDEs PHP en 2025 : Quand l’IA Révolutionne Notre Façon de Coder](https://medium.com/@martinlechene/top-5-des-ides-php-en-2025-quand-lia-r%C3%A9volutionne-notre-fa%C3%A7on-de-coder-ca96526d0134)
-- [Welcome to TomatoPHP SaaS with Demo ! How work with ?](https://medium.com/@martinlechene/welcome-to-tomatophp-saas-with-demo-how-work-with-53e514c7171c)
-- [Lever la Voile sur le Multi-Domaine dans Laravel : Une Aventure Épique 🏴‍☠](https://medium.com/@martinlechene/lever-la-voile-sur-le-multi-domaine-dans-laravel-une-aventure-%C3%A9pique-e9bbe80544b5) | [Unveiling Multi-Domain in Laravel: An Epic Adventure 🏴‍☠️](https://medium.com/@martinlechene/unveiling-multi-domain-in-laravel-an-epic-adventure-%EF%B8%8F-5c627e350775)
-- [Unleashing Laravel’s Trait-orious Adventures: A Pirate’s Guide to Code Plundering! ☠️💻](https://medium.com/@martinlechene/unleashing-laravels-trait-orious-adventures-a-pirate-s-guide-to-code-plundering-%EF%B8%8F-933e753ea118)
-- [Make URL Shortener With Laravel on other domain](https://medium.com/@martinlechene/make-url-shortener-with-laravel-on-other-domain-bef2eccf48a4)
-- [☁️ Laravel 10: Envoyer des Signaux à Slack et Discord avec Webhooks ☠️](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-envoyer-des-signaux-%C3%A0-slack-et-discord-avec-webhooks-%EF%B8%8F-b4374a450305) | [☁️ Laravel 10: Sending Signals to Slack and Discord with Webhooks ☠️ ](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-sending-signals-to-slack-and-discord-with-webhooks-%EF%B8%8F-bb82d3105d13)
-- [🏴‍☠️ Laravel 10: Déployez Comme un Pirate avec FTP ☁️](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-d%C3%A9ployez-comme-un-pirate-avec-ftp-%EF%B8%8F-a9d90fbec7be) | [🏴‍☠️ Deploying Laravel 10 Like a Pirate: SSH Method 🏴‍☠️](https://medium.com/@martinlechene/%EF%B8%8F-deploying-laravel-10-like-a-pirate-ssh-method-%EF%B8%8F-a111f671ef21)
-- [🏴‍☠️ Le Guide ultime des ~100 Fonctions PHP pour Naviguer en Haute Mer comme un expert🌊](https://medium.com/@martinlechene/%EF%B8%8F-le-guide-ultime-des-100-fonctions-php-pour-naviguer-en-haute-mer-comme-un-expert-bd32ecf82c9a)
-
-
 ## Chrome Extension
 - [RemovePaywalls](https://github.com/martin-lechene/removepaywalls-extension)
 - [Freedium Anti-PayWall](https://github.com/martin-lechene/freedium-extension)
@@ -87,7 +71,24 @@
 - **QuelsProjets [Full Stack Dev. WordPress]** - Multi-business: Selling domains and websites on WordPress, ready e-commerce, blogs, and media
 - **[Canell SPRL](https://canell.be) [Full Stack Dev. PHP/WordPress]** - Work for BeBooth, Managara, TotalEnergie Concours,.. 
 - **Roll Mops Interactive [Full Stack Dev. PHP/WordPress]** - Game Studio Belgium | WordPress fully custom theme and plugin
-</br></br>
+
+
+# Articles
+- [Secure Your Belgian Company: Seamless itsme® Integration for Laravel 12](https://medium.com/@martinlechene/secure-your-belgian-company-seamless-itsme-integration-for-laravel-12-da53a9b4fb24
+)
+- [One Key, 175k+ Models: Mastering AI in Laravel with Bytez](https://medium.com/@martinlechene/one-key-175k-models-mastering-ai-in-laravel-with-bytez-7bc84d9083e8)
+- [Le Guide Exhaustif des 150+ Helpers Laravel 12 : La Bible des Fonctions Utilitaires](https://medium.com/@martinlechene/le-guide-exhaustif-des-150-helpers-laravel-12-la-bible-des-fonctions-utilitaires-aba4bfdccfff)
+- [Les migrations Laravel en prod : le guide A → Z pour ne rien casser (ou presque)💣](https://medium.com/@martinlechene/les-migrations-laravel-en-prod-le-guide-a-z-pour-ne-rien-casser-ou-presque-e22ac9ab8aec)
+- [TOP 5 des IDEs PHP en 2025 : Quand l’IA Révolutionne Notre Façon de Coder](https://medium.com/@martinlechene/top-5-des-ides-php-en-2025-quand-lia-r%C3%A9volutionne-notre-fa%C3%A7on-de-coder-ca96526d0134)
+- [Welcome to TomatoPHP SaaS with Demo ! How work with ?](https://medium.com/@martinlechene/welcome-to-tomatophp-saas-with-demo-how-work-with-53e514c7171c)
+- [Lever la Voile sur le Multi-Domaine dans Laravel : Une Aventure Épique 🏴‍☠](https://medium.com/@martinlechene/lever-la-voile-sur-le-multi-domaine-dans-laravel-une-aventure-%C3%A9pique-e9bbe80544b5) | [Unveiling Multi-Domain in Laravel: An Epic Adventure 🏴‍☠️](https://medium.com/@martinlechene/unveiling-multi-domain-in-laravel-an-epic-adventure-%EF%B8%8F-5c627e350775)
+- [Unleashing Laravel’s Trait-orious Adventures: A Pirate’s Guide to Code Plundering! ☠️💻](https://medium.com/@martinlechene/unleashing-laravels-trait-orious-adventures-a-pirate-s-guide-to-code-plundering-%EF%B8%8F-933e753ea118)
+- [Make URL Shortener With Laravel on other domain](https://medium.com/@martinlechene/make-url-shortener-with-laravel-on-other-domain-bef2eccf48a4)
+- [☁️ Laravel 10: Envoyer des Signaux à Slack et Discord avec Webhooks ☠️](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-envoyer-des-signaux-%C3%A0-slack-et-discord-avec-webhooks-%EF%B8%8F-b4374a450305) | [☁️ Laravel 10: Sending Signals to Slack and Discord with Webhooks ☠️ ](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-sending-signals-to-slack-and-discord-with-webhooks-%EF%B8%8F-bb82d3105d13)
+- [🏴‍☠️ Laravel 10: Déployez Comme un Pirate avec FTP ☁️](https://medium.com/@martinlechene/%EF%B8%8F-laravel-10-d%C3%A9ployez-comme-un-pirate-avec-ftp-%EF%B8%8F-a9d90fbec7be) | [🏴‍☠️ Deploying Laravel 10 Like a Pirate: SSH Method 🏴‍☠️](https://medium.com/@martinlechene/%EF%B8%8F-deploying-laravel-10-like-a-pirate-ssh-method-%EF%B8%8F-a111f671ef21)
+- [🏴‍☠️ Le Guide ultime des ~100 Fonctions PHP pour Naviguer en Haute Mer comme un expert🌊](https://medium.com/@martinlechene/%EF%B8%8F-le-guide-ultime-des-100-fonctions-php-pour-naviguer-en-haute-mer-comme-un-expert-bd32ecf82c9a)
+
+
   
 <p>
   And too, streamer on <a href="https://twitch.tv/doganddev/">Twitch</a> or <a href="https://youtube.com/@doganddev">YouTube</a> or my list of article on <a href="https://medium.com/@martinlechene">Medium</a> or <a href="https://dev.to/martinlechene">Dev.to</a>
