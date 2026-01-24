@@ -49,7 +49,7 @@
 - **Discord Bot DayZ** - Bot discord for DayZ server
 - **YOUR PROJECT ?** - [CONTACT BY MAIL](mailto:contact@doganddev.eu)
 
-# Packages
+# Packages / Scripts
 ## Laravel
 - [Laravel Storage Backup](https://github.com/ibnu-sahid/laravel-storage-backup)
 - [Crypto Payments](https://github.com/martin-lechene/crypto-payment-laravel)
