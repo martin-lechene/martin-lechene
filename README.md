@@ -20,7 +20,7 @@
 
 - **Digila** - Platform for creating web profiles and statistics
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
-- **DiscoBot** - Marketplace of Discord Bot
+- **[DiscoBot](https://discobot.doganddev.eu)** - Marketplace of Discord Bot
 - **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
 - **[Musecture](https://github.com/martin-lechene/musecture)** - Artichecture MAO 
