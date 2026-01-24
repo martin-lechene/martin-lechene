@@ -1,7 +1,7 @@
 <!-- <img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" /> -->
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
-  <p> Senior Full Stack PHP / Laravel <br/>
+  <p> Full Stack PHP / Laravel | AI creator <br/>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   </p>
