@@ -1,5 +1,4 @@
 <!-- <img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" /> -->
-
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
   <p> Senior Full Stack PHP / Laravel <br/>
@@ -9,18 +8,31 @@
 </h1>
 
 # Experiences 
-- **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C
-- **[Vetzy](https://vetzy.eu)** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
-- **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP
-- **[GitChat](https://gitchat.doganddev.eu/)** - Platform for chatting with github community
-- **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
-- **[SteamCrea](https://streamcrea.com)** - Platform for multicasting on social media and managing published posts
-- **[Fin Nexus](https://finnexus.doganddev.eu/)** - Plaform powered by IA for manage your financial life
-- **[OlaCars](https://olacars.doganddev.eu)** - Platform for selling luxury cars
+- **[DOG&DEV](https://doganddev.eu)**  - Web Agency and plaform for manage server, social media, and all my life of dev
+<img width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/dc4a0584-8bd8-4ba6-b39f-015876022fc0" />
 
+- **[Vetzy](https://vetzy.eu)** - Platform for veterinarians and pet owners, for easy finding, taking, and managing appointments
+<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/949424b3-9c96-4b4f-8643-2eb821b1f7c5" />
+
+- **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP
+<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/e77d8519-7255-4c40-9d05-3fbe8b228013" />
+
+- **[DiscoBot](https://discobot.doganddev.eu)** - Marketplace of Discord Bot
+<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/d925f0c0-f0f6-492d-bb0e-6f2becd630f6" />
+
+- **[GitChat](https://gitchat.doganddev.eu/)** - Platform for chatting with github community
+<img width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/88356313-c7f5-4d0c-a0ff-4159dab6ce49" />
+
+- **[SteamCrea](https://streamcrea.com)** - Platform for multicasting on social media and managing published posts
+<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/8c554b9a-a6bd-4dc3-acd0-60824c23a3b0" />
+
+- **[Fin Nexus](https://finnexus.doganddev.eu/)** - Plaform powered by IA for manage your financial life
+<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/c960d0c2-0e32-4d72-8ecb-82c43fe7ec79" />
+
+- **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
+- **[OlaCars](https://olacars.doganddev.eu)** - Platform for selling luxury cars
 - **Digila** - Platform for creating web profiles and statistics
 - **Lodate** - Match, choose your activity, paid directly or on-site and 50% or 100% and go meet
-- **[DiscoBot](https://discobot.doganddev.eu)** - Marketplace of Discord Bot
 - **[Pulse Color](https://github.com/martin-lechene/pulsecolor)** - UI/UX sync with audio
 - **[Soundrak](https://github.com/martin-lechene/soundrak)** - Tone.JS Music Generator
 - **[Musecture](https://github.com/martin-lechene/musecture)** - Artichecture MAO 
