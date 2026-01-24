@@ -74,8 +74,10 @@
 # Work for
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C (Mutli SaaS creation for our éco-system: Vetzy, PanelRP, Garde Vétérinaires, StreamCrea, Digilia, OlaCars, Lodate, DiscoBot, ..)
 - **[AnHosting](https://anhosting.fr) [Co-founder]** - Game hosting: FiveM, Minecraft, Arma Reforger, Dedicated Server and website
+- **[AnDevs](https://andevs.fr) [Co-founder]** - Teams of development 
 - **Egonix [Co-founder]** - Platform for sharing and statistics on profiles via NFC products
-- **CheckThisToo [Full Stack Dev. PHP/Laravel]** - Mission on demand for company
+- **CheckThisToo [Full Stack Dev. PHP/Laravel]** - Mission on demand for companies
+- **[Noct-tale](https://noct-tale.fr) [Full Stack Dev.]** - Create a UI/UX design web platform
 - **[MyConsultation](https://myconsultation.be) [Full Stack Dev. PHP]** - Platform for scheduling for patients and doctors
 - **[GoCar](https://gocar.be) [Full Stack Dev. Laravel]** - Belgium Plaform For Selling Car Marketplace
 - **[JobForDev](https://github.com/JobForDev)** - Sharing all jobs for all devs
