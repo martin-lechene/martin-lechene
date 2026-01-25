@@ -70,6 +70,8 @@
 - [El Arcade](https://github.com/martin-lechene/el-arcade)
 ## VSCode Extension
 - [LaraTools](https://github.com/martin-lechene/laratools-vscode-extension) 
+## Dedicated Server
+- [Apache manager](https://github.com/martin-lechene/apache-manager)
 
 # Work for
 - **[DOG&DEV](https://doganddev.eu)**  - My web agency  for B2B and B2C (Mutli SaaS creation for our éco-system: Vetzy, PanelRP, Garde Vétérinaires, StreamCrea, Digilia, OlaCars, Lodate, DiscoBot, ..)
