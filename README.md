@@ -53,7 +53,7 @@
 ## Laravel
 - [Laravel Storage Backup](https://github.com/ibnu-sahid/laravel-storage-backup)
 - [Crypto Payments](https://github.com/martin-lechene/crypto-payment-laravel)
-- [Ledger Connect USB/Bluetooth](https://github.com/martin-lechene/ledger-laravel)
+- [Ledger Connect USB/Bluetooth into PHP/Laravel](https://github.com/martin-lechene/ledger-laravel)
 - [Github Action generator](https://github.com/martin-lechene/github-action-laravel)
 - [Audit System](https://github.com/martin-lechene/audit-laravel)
 - [LarappeUI](https://github.com/martin-lechene/LarappeUI)
@@ -61,6 +61,7 @@
 - [eBox Entreprise Secure](https://github.com/martin-lechene/eBox-laravel)
 - [Itsme OAuth](https://github.com/martin-lechene/itsme-laravel)
 - [Bytez IA Integration Multi Modal & API](https://github.com/martin-lechene/bytez-laravel)
+- [Changelogs Generator](https://github.com/martin-lechene/laravel-github-changelog) 
 
 ## Chrome Extension
 - [RemovePaywalls](https://github.com/martin-lechene/removepaywalls-extension)
