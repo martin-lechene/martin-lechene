@@ -1,4 +1,4 @@
-<!-- <img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" /> -->
+<img width="2559" height="1372" alt="image" src="https://github.com/user-attachments/assets/7d8d2ea1-246c-4b2f-96b8-68f00a38897f" /><!-- <img align="center" width="1700" height="378" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3a520627-11a8-4bc6-9942-c003e457610d" /> -->
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Total%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
   <p> Full Stack PHP / Laravel <br/>
@@ -28,6 +28,10 @@
 
 - **[Fin Nexus](https://finnexus.doganddev.eu/)** - Plaform powered by IA for manage your financial life
 <img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/c960d0c2-0e32-4d72-8ecb-82c43fe7ec79" />
+
+- **[TaskAI](https://github.com/martin-lechene/taskai-app)** - Plaform powered by IA for manage your tasks
+<img width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/e5830d24-de85-41a3-ac74-1b11009a05e0" />
+
 
 - **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
 - **[OlaCars](https://olacars.doganddev.eu)** - Platform for selling luxury cars
