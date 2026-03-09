@@ -35,6 +35,10 @@
 - **[Odoo Builder](https://odoo-builder.doganddev.eu)** - Generate your Odoo Modules with AI for simplify generation of base module
 <img width="450" height="100%" alt="odoo-builder" src="https://github.com/user-attachments/assets/e7bc69a5-a15b-4173-bbe2-3b2f62bf756f" />
 
+- **[Laroo ](https://laroo.doganddev.eu)** - Odoo-Like refactorised with Laravel/PHP
+<img width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/40e017d5-dd66-4e1a-b98a-76c2cbbbdc5b" />
+
+
 - **[Gardeveterinaires](https://gardeveterinaire.eu)** - Platform for found in emergency a veterinarians availabilities
 - **[OlaCars](https://olacars.doganddev.eu)** - Platform for selling luxury cars
 - **Digila** - Platform for creating web profiles and statistics
