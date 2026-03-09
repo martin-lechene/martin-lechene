@@ -15,7 +15,7 @@
 <img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/949424b3-9c96-4b4f-8643-2eb821b1f7c5" />
 
 - **[PanelRP](https://PanelRP.com)** - Platform for manage full instance of web for game server RP
-<img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/e77d8519-7255-4c40-9d05-3fbe8b228013" />
+<img width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/f67244ae-e067-447d-98d0-85a45dbd62dd" />
 
 - **[DiscoBot](https://discobot.doganddev.eu)** - Marketplace of Discord Bot
 <img  width="450" height="100%" alt="image" src="https://github.com/user-attachments/assets/d925f0c0-f0f6-492d-bb0e-6f2becd630f6" />
