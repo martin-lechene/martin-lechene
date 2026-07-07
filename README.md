@@ -1,7 +1,7 @@
 <h1 align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=martin-lechene&label=Profile%20views&color=a733dd&style=square" alt="martin-lechene" /></p>
   <p><strong>Martin Lechêne</strong><br/>
-  Senior Full Stack PHP/Laravel · SaaS & open source · Belgium · remote</p>
+  Senior Full Stack Dev. · SaaS & open source · Belgium · remote</p>
   <p>
     <a href="https://martin.lechene.be"><img src="https://img.shields.io/badge/Portfolio-martin.lechene.be-a733dd?style=for-the-badge"/></a>
     <a href="https://martinlechene.com"><img src="https://img.shields.io/badge/Site-martinlechene.com-555?style=for-the-badge"/></a>
@@ -14,7 +14,7 @@
   </p>
 </h1>
 
-**Building production SaaS and Laravel packages since 2017.** TOSA PHP 933/1000. Currently: [DOG&DEV](https://doganddev.eu), [Vetzy](https://vetzy.eu), [PanelRP](https://panelrp.com).
+**Building production SaaS and more products since 2017.** TOSA PHP 933/1000. Currently: [DOG&DEV](https://doganddev.eu), [Vetzy](https://vetzy.eu), [PanelRP](https://panelrp.com).
 
 ---
 
