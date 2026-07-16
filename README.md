@@ -15,7 +15,7 @@
 </h1>
 
 **Building production SaaS and more products since 2017.** TOSA PHP 933/1000. Currently: [DOG&DEV](https://doganddev.eu), [Vetzy](https://vetzy.eu), [PanelRP](https://panelrp.com).
-
+**CTO** chez [Proporio](https://propor.io)
 ---
 
 ## Featured (best of)
